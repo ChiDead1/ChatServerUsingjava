@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=UserThread
+comment0.text=\r\n\ This\ thread\ handles\ connection\ for\ each\ connected\ client,\ so\ the\ server\r\n\ can\ handle\ multiple\ clients\ at\ the\ same\ time.\r\n\r\n\ @author\ www.codejava.net\r\n
+comment1.params=socket\ server
+comment1.target=UserThread(java.net.Socket,\ ChatServer)
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=void\ printUsers()
+comment3.text=\r\n\ Sends\ a\ list\ of\ online\ users\ to\ the\ newly\ connected\ user.\r\n
+comment4.params=message
+comment4.target=void\ sendMessage(java.lang.String)
+comment4.text=\r\n\ Sends\ a\ message\ to\ the\ client.\r\n
+numComments=5

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ReadThread
+comment0.text=\r\n\ This\ thread\ is\ responsible\ for\ reading\ server's\ input\ and\ printing\ it\r\n\ to\ the\ console.\r\n\ It\ runs\ in\ an\ infinite\ loop\ until\ the\ client\ disconnects\ from\ the\ server.\r\n\r\n\ @author\ www.codejava.net\r\n
+comment1.params=socket\ client
+comment1.target=ReadThread(java.net.Socket,\ ChatClient)
+comment2.params=
+comment2.target=void\ run()
+numComments=3

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ChatServer
+comment0.text=\r\n\ This\ is\ the\ chat\ server\ program.\r\n\ Press\ Ctrl\ +\ C\ to\ terminate\ the\ program.\r\n\r\n\ @author\ www.codejava.net\r\n
+comment1.params=port
+comment1.target=ChatServer(int)
+comment2.params=
+comment2.target=void\ execute()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=userName
+comment4.target=void\ addUserName(java.lang.String)
+comment4.text=\r\n\ Stores\ username\ of\ the\ newly\ connected\ client.\r\n
+comment5.params=
+comment5.target=java.util.Set\ getUserNames()
+comment6.params=
+comment6.target=boolean\ hasUsers()
+comment6.text=\r\n\ Returns\ true\ if\ there\ are\ other\ users\ connected\ (not\ count\ the\ currently\ connected\ user)\r\n
+numComments=7
